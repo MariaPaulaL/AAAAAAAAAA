@@ -39,5 +39,4 @@ SELECT
     (junio-mayo) AS dif,
     ((junio-mayo)/mayo) as perc
 FROM pivote
-LIMIT 5
-;  
+LIMIT 5;  
